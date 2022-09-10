@@ -1,0 +1,1 @@
+## Atividades feitas durante a disciplina de Computação Gráfica usando OpenGL
